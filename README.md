@@ -45,7 +45,7 @@ Most of my projects start with messy PDFs and end as structured AI-powered APIs.
 ---
 
 ### 🤖 LLMs & Agentic Systems
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge)
 ![LangSmith](https://img.shields.io/badge/LangSmith-111111?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
