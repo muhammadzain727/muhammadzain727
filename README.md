@@ -46,11 +46,11 @@ Most of my projects start with messy PDFs and end as structured AI-powered APIs.
 
 ### 🤖 LLMs & Agentic Systems
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge&logo=langgraph&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-111111?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-222222?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-005571?style=for-the-badge)
 ![LoRA / QLoRA](https://img.shields.io/badge/LoRA_&_QLoRA-8A2BE2?style=for-the-badge)
 
